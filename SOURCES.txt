@@ -19,11 +19,6 @@ Chalmers-1995-Facing-Up-to-the-Problem-of-Consciousness.pdf
   Journal of Consciousness Studies 2(3):200-19.
   Source: https://consc.net/papers/facing.pdf
 
-facing.html
-  Chalmers, D.J. 1995. Facing up to the problem of consciousness.
-  Same article as the PDF above; HTML full text from the author's site.
-  Source: https://consc.net/papers/facing.html
-
 Crick-Koch-1990-Towards-a-Neurobiological-Theory-of-Consciousness.pdf
   Crick, F. and Koch, C. 1990. Toward a neurobiological theory of consciousness.
   Seminars in the Neurosciences 2:263-275.
