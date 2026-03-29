@@ -1,0 +1,107 @@
+Manifest for texts gathered from the References and Further Reading sections of:
+  David J. Chalmers, "Facing Up to the Problem of Consciousness"
+  https://consc.net/papers/facing.html
+
+Files in this directory (filename -> citation)
+----------------------------------------------------------------------
+Akins-1993-What-Is-It-Like-to-Be-Boring-and-Myopic.pdf
+  Akins, K. 1993. What is it like to be boring and myopic? In (B. Dahlbom, ed.)
+  Dennett and His Critics. Oxford: Blackwell.
+  Source: https://www.sfu.ca/~kathleea/docs/Boring%26Myopic.pdf
+
+Block-1995-Confusion-About-Function-of-Consciousness.pdf
+  Block, N. 1995. On a confusion about a function of consciousness.
+  Behavioral and Brain Sciences.
+  Source: https://web.ics.purdue.edu/~drkelly/BlockConceptsOfConsciousness1995.pdf
+
+Chalmers-1995-Facing-Up-to-the-Problem-of-Consciousness.pdf
+  Chalmers, D.J. 1995. Facing up to the problem of consciousness.
+  Journal of Consciousness Studies 2(3):200-19.
+  Source: https://consc.net/papers/facing.pdf
+
+facing.html
+  Chalmers, D.J. 1995. Facing up to the problem of consciousness.
+  Same article as the PDF above; HTML full text from the author's site.
+  Source: https://consc.net/papers/facing.html
+
+Crick-Koch-1990-Towards-a-Neurobiological-Theory-of-Consciousness.pdf
+  Crick, F. and Koch, C. 1990. Toward a neurobiological theory of consciousness.
+  Seminars in the Neurosciences 2:263-275.
+  Source: https://collections.nlm.nih.gov/pdf/nlm:nlmuid-101584582X469-doc
+  (Francis Crick Papers, U.S. National Library of Medicine)
+
+Jackson-1982-Epiphenomenal-Qualia.pdf
+  Jackson, F. 1982. Epiphenomenal qualia. The Philosophical Quarterly 32:127-36.
+  Source: https://www.sfu.ca/~jillmc/JacksonfromJStore.pdf
+
+Levine-1983-Materialism-and-Qualia-Explanatory-Gap.pdf
+  Levine, J. 1983. Materialism and qualia: The explanatory gap.
+  Pacific Philosophical Quarterly 64:354-61.
+  Source: https://newdualism.org/papers/J.Levine/Levine-PPQ1983.pdf
+
+Lewis-1994-Reduction-of-Mind.pdf
+  Lewis, D. 1994. Reduction of mind. In (S. Guttenplan, ed.)
+  A Companion to the Philosophy of Mind. Oxford: Blackwell.
+  Source: https://andrewmbailey.com/dkl/Reduction_of_Mind_2.pdf
+  Note: Anthology excerpt scan (8 pages), not necessarily the full chapter.
+
+Libet-1993-Neural-Time-Factor.pdf
+  Libet, B. 1993. The neural time factor in conscious and unconscious events.
+  In (G.R. Block and J. Marsh, eds.) Experimental and Theoretical Studies of
+  Consciousness (Ciba Foundation Symposium 174). Chichester: John Wiley and Sons.
+  Source: third-party scan (Hackaday.io file mirror); verify against official
+  volume if you need a definitive copy.
+
+McGinn-1989-Can-We-Solve-the-Mind-Body-Problem.pdf
+  McGinn, C. 1989. Can we solve the mind-body problem? Mind 98:349-66.
+  Source: https://beisecker.faculty.unlv.edu/Courses/PHIL-352/Dave%20-%20Consciousness%20PDFs/McGinn.pdf
+
+Nagel-1974-What-Is-It-Like-to-Be-a-Bat.pdf
+  Nagel, T. 1974. What is it like to be a bat? Philosophical Review 4:435-50.
+  Source: MIT Open Learning Library course asset (24.09x).
+
+Rosenthal-1996-A-Theory-of-Consciousness.pdf
+  Rosenthal, D.M. 1996. A theory of consciousness. In (N. Block, O. Flanagan, and
+  G. Güzeldere, eds.) The Nature of Consciousness. Cambridge, MA: MIT Press.
+  Source: https://davidrosenthal.org/DR-A-Theory.pdf
+
+Searle-1980-Minds-Brains-and-Programs.html
+  Searle, J.R. 1980. Minds, brains and programs.
+  Behavioral and Brain Sciences 3:417-57.
+  Source: HTML full text at Tufts:
+  https://www.cs.tufts.edu/comp/50cog/readings/searle.html
+
+Shannon-1948-Mathematical-Theory-of-Communication.pdf
+  Shannon, C.E. 1948. A mathematical theory of communication.
+  Bell Systems Technical Journal 27:379-423.
+  Source: http://www.qsl.net/n/n9zia/shannon1948.pdf
+  Note: Public-domain-era work; mirror may be single-part excerpt—compare to
+  full BSTJ parts if you need the complete two-part paper.
+
+Wheeler-1990-Information-Physics-Quantum.pdf
+  Wheeler, J.A. 1990. Information, physics, quantum: The search for links.
+  In (W. Zurek, ed.) Complexity, Entropy, and the Physics of Information.
+  Redwood City, CA: Addison-Wesley.
+  Source: https://philpapers.org/archive/WHEIPQ.pdf
+
+
+Items from References / Further Reading not placed here (typical reasons)
+----------------------------------------------------------------------
+- Entire books or monographs: Baars 1988; Bateson 1972; Chalmers 1996 (book);
+  Churchland 1995; Clark 1992; Crick 1994; Dennett 1991; Dretske 1995;
+  Edelman 1989; Hodgson 1988; Humphrey 1992; Jackendoff 1987/1988; Kirk 1994;
+  Kripke 1980; Lockwood 1989; Metzinger 1995; Newell 1990; Penrose 1989/1994;
+  Seager 1991; Strawson 1994; Tye 1995; Block/Flanagan/Güzeldere 1996 (volume).
+- Edited-book chapters without a located open PDF: Allport 1988; Wilkes 1988;
+  Flohr 1992; Hardin 1992; Farah 1994; Jackson 1994; Loar 1990 (full essay);
+  Nelkin 1993 (Philosophy of Science); Shallice 1972.
+- Journal articles behind paywalls or without a stable open PDF in this pass:
+  Hameroff 1994 (Journal of Consciousness Studies); Velmans 1991 (BBS);
+  Eckhorn et al. 1988 (cited in-text, not in bibliography).
+
+
+Further reading-only authors (overlap with References): Block 1995, Nelkin 1993,
+Tye 1995 are covered above where a file exists; Nelkin 1993 was not obtained.
+
+
+Generated: 2026-03-29
