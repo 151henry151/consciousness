@@ -5,6 +5,12 @@ All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.5] - 2026-04-02
+
+### Changed
+
+- Change the hero intro copy in `index.html` to a shorter two-line message: "How can a brain made of cells and electricity feel like you from the inside?" and "Explore different aspects of consciousness by reading these articles."
+
 ## [0.1.4] - 2026-04-02
 
 ### Added
